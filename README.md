@@ -28,7 +28,7 @@ Atualmente o Jogo da Velha possui dois modos de jogo (Single-player e Multiplaye
 
 ## Roadmap
 
-Consulte os [issues](https://github.com/marceloapd/PlantaloT/issues) para obter uma lista de recursos propostos (e problemas conhecidos).
+Consulte os [issues](https://github.com/marceloapd/TicToe/issues) para obter uma lista de recursos propostos (e problemas conhecidos).
 
 
 ## Contribuindo
