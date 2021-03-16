@@ -15,7 +15,7 @@ Projeto desenvolvido no inicio dos meus estudos de programação, trata-se de um
 * Importe o projeto para alguma IDE Java
 * Execute o arquivo TelaJava.java
 
-![teste](https://user-images.githubusercontent.com/71731452/111347725-3dfd7280-865e-11eb-9551-699bf3832ae2.gif)
+![menuanima](https://user-images.githubusercontent.com/71731452/111348580-1a86f780-865f-11eb-9bad-3b4dcc941e07.png)
 
 
 ### Pré-requisitos
