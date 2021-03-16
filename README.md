@@ -15,50 +15,32 @@ Projeto desenvolvido no inicio dos meus estudos de programação, trata-se de um
 * Importe o projeto para alguma IDE Java
 * Execute o arquivo TelaJava.java
 
-![menuanima](https://user-images.githubusercontent.com/71731452/111348580-1a86f780-865f-11eb-9bad-3b4dcc941e07.png)
-
 
 ### Pré-requisitos
 
-* Sensor de Umidade do Solo
-* ESP8266
-* DHT 22
-
-### Instalação
-
-1. Comece montando o hardware baseado nesse [esquema eletrico](https://user-images.githubusercontent.com/71731452/111225844-0db2c700-85bf-11eb-83d9-2f78065c2d21.jpg) 
-2. Obtenha o PlataformIO [https://platformio.org/](https://platformio.org/)
-3. Clone o repositorio https://github.com/marceloapd/PlantaloT
-4. Importe o projeto para o PlataformIO
-5. Suba o firmware para o ESP8266
+* OpenJDK
+* JavaIDE
    
-
 ## Uso
 
-Atualmente o dispositivo de PlantaloT consegue notificar via twitter o valor de seus sensores de umidade do solo, umidade do ar e temperatura
-
-Para obter exemplos, abra o [twitter](https://twitter.com/do_planta)
-
+Atualmente o Jogo da Velha possui dois modos de jogo (Single-player e Multiplayer) sendo o singleplayer uma IA operando.
 
 ## Roadmap
 
 Consulte os [issues](https://github.com/marceloapd/PlantaloT/issues) para obter uma lista de recursos propostos (e problemas conhecidos).
 
 
-
 ## Contribuindo
 
-As contribuições são o que tornam a comunidade do 'open source' um lugar incrível para aprender, inspirar e criar. Quaisquer contribuições que você fizer serão * bem recebidas *.
+Esse projeto possui muitos defeitos e bugs que podem ser corrigidos, para quem gosta da Linguagem Java pode ser um bom desafio.
 
 ## Licença
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
-
 ## Contato
 
 Marcelo Assis - [@marceloapda](https://twitter.com/marceloapda) - marcelo.apdassis@gmail.com
 
-Link do Projeto: [https://github.com/marceloapd/PlantaloT](https://github.com/marceloapd/PlantaloT)
+Link do Projeto: [https://github.com/marceloapd/TicToe](https://github.com/marceloapd/TicToe)
 
