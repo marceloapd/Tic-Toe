@@ -1,8 +1,8 @@
-![menuanima](https://user-images.githubusercontent.com/71731452/111350155-933a8380-8660-11eb-880a-e57a86290cf5.png)
 ## Sobre o projeto
 
 Projeto desenvolvido no inicio dos meus estudos de programação, trata-se de um jogo da velha
 
+![TICtoe](https://user-images.githubusercontent.com/71731452/111336764-48b30a00-8654-11eb-96fe-4e01cd9fd17a.gif)
 
 ### Construido com
 
@@ -24,7 +24,7 @@ Projeto desenvolvido no inicio dos meus estudos de programação, trata-se de um
 
 Atualmente o Jogo da Velha possui dois modos de jogo (Single-player e Multiplayer) sendo o singleplayer uma IA operando.
 
-![TICtoe](https://user-images.githubusercontent.com/71731452/111336764-48b30a00-8654-11eb-96fe-4e01cd9fd17a.gif)
+![menuanima](https://user-images.githubusercontent.com/71731452/111350155-933a8380-8660-11eb-880a-e57a86290cf5.png)
 
 ## Roadmap
 
