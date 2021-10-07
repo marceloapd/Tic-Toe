@@ -26,11 +26,6 @@ Atualmente o Jogo da Velha possui dois modos de jogo (Single-player e Multiplaye
 
 ![menuanima](https://user-images.githubusercontent.com/71731452/111350155-933a8380-8660-11eb-880a-e57a86290cf5.png)
 
-## Roadmap
-
-Consulte os [issues](https://github.com/marceloapd/TicToe/issues) para obter uma lista de recursos propostos (e problemas conhecidos).
-
-
 ## Contribuindo
 
 Esse projeto possui muitos defeitos e bugs que podem ser corrigidos, para quem gosta da Linguagem Java pode ser um bom desafio.
